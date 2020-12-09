@@ -73,8 +73,3 @@ findWord(letter)
 for x in rightWord:
     total = total + len(x)
 print("Your total score is:",total)
-
-
-            
-        
-    
